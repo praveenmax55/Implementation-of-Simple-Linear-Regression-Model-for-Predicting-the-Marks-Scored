@@ -60,7 +60,7 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![output](ml-2.2.png)
+"C:\Users\SEC\Pictures\ml-ex-2.2.png"
 
 
 ## Result:
