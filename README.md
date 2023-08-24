@@ -45,7 +45,7 @@ plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
 plt.scatter(X_test,y_test,color='red')
-plt.plot(X_train,regressor.predict(X_train),color='blue')# plotting the regression line
+plt.plot(X_train,regressor.predict(X_train),color='blue')
 plt.title("Hours vs scores(Testing set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
