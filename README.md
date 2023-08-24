@@ -60,7 +60,7 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-!(ml-2.2)
+![output](ml-2.2.png)
 
 
 ## Result:
