@@ -60,7 +60,22 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-"C:\Users\SEC\Pictures\ml-ex-2.2.png"
+
+![Screenshot 2023-08-24 090723](https://github.com/praveenmax55/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497509/57f2db55-8f27-466c-9df8-39aa70f806d8)
+
+![Screenshot 2023-08-24 090808](https://github.com/praveenmax55/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497509/77492632-c012-4107-83c8-10ffcd2e228a)
+
+![Screenshot 2023-08-24 090845](https://github.com/praveenmax55/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497509/1135cd01-a2fe-4e51-afb2-774f084312a4)
+
+![Screenshot 2023-08-24 090917](https://github.com/praveenmax55/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497509/1fd74109-307e-4cbf-9e02-22898e5aa096)
+
+![Screenshot 2023-08-24 090950](https://github.com/praveenmax55/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497509/12a42d1d-9558-4524-be57-1159e167369b)
+
+![Screenshot 2023-08-24 091230](https://github.com/praveenmax55/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497509/42880876-83b2-446f-8089-f8c10baf1e02)
+
+![Screenshot 2023-08-24 091301](https://github.com/praveenmax55/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497509/9a6c5889-f156-4210-a2f6-49e3d6abfe5e)
+
+![Screenshot 2023-08-24 091337](https://github.com/praveenmax55/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497509/ec28aec1-76b7-42f4-a733-11799cb3e9cd)
 
 
 ## Result:
