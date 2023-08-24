@@ -50,6 +50,12 @@ plt.title("Hours vs scores(Testing set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
+mse=mean_squared_error(y_test,y_pred)
+print('MSE = ',mse)
+mae=mean_absolute_error(y_test,y_pred)
+print('MAE = ',mae)
+rmse=np.sqrt(mse)
+print('RMSE = ',rmse)
 */
 ```
 
